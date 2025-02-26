@@ -1,4 +1,4 @@
-# BH_Airport_Analysis
+# BH Airport Analysis
 Analysis for all departure and arrival flights at BH Intl Airport
 
 ## Data
