@@ -1,0 +1,332 @@
+destination,flight_number,airline,gate,status,time,date,direction
+Larnaca,GF947,Gulf Air,18A,Landed,10:53                                                        10:50,2025-02-26,arrivals
+Trivandrum,IX573,Air India Express,13A,Landed,11:01                                                        11:00,2025-02-26,arrivals
+Athens,GF048,Gulf Air,15B,Landed,11:10                                                        11:25,2025-02-26,arrivals
+Doha,GF525,Gulf Air,15A,Landed,11:53                                                        12:15,2025-02-26,arrivals
+Dammam,GF104,Gulf Air,17A,Delayed,14:22                                                        12:25,2025-02-26,arrivals
+Kuwait,GF214,Gulf Air,13B,Landed,12:53                                                        12:45,2025-02-26,arrivals
+Dhaka,GF251,Gulf Air,14A-B,Landed,14:07                                                        13:05,2025-02-26,arrivals
+Alqassim,GF188,Gulf Air,19B,Landed,12:46                                                        13:10,2025-02-26,arrivals
+Dubai,GF505,Gulf Air,13A,Landed,13:12                                                        13:20,2025-02-26,arrivals
+Najaf,GF204,Gulf Air,11A,Landed,13:02                                                        13:20,2025-02-26,arrivals
+Riyadh,GF164,Gulf Air,18B,Landed,13:07                                                        13:20,2025-02-26,arrivals
+Dubai,FZ021,FlyDubai,15A,Delayed,14:45                                                        14:30,2025-02-26,arrivals
+Muscat,WY655,Oman Air,12A,Early,14:49                                                        14:50,2025-02-26,arrivals
+Moscow,GF013,Gulf Air,19B,Early,14:39                                                        15:05,2025-02-26,arrivals
+Almadina,GF180,Gulf Air,17B,Early,14:36                                                        15:05,2025-02-26,arrivals
+Abu Dhabi,EY643,Al Etihad,11B,On Time,15:05,2025-02-26,arrivals
+Kuwait,J9101,Jazeera Airways,11A,On Time,15:40,2025-02-26,arrivals
+Jeddah,GF172,Gulf Air,18B,On Time,15:45,2025-02-26,arrivals
+Prague,QS4124,Travel Service Airlines,13B,On Time,15:55,2025-02-26,arrivals
+Kuwait,KU615,Kuwait Airways,19A,On Time,16:15,2025-02-26,arrivals
+Dubai,EK839,Emirates,15A-B,On Time,16:20,2025-02-26,arrivals
+Doha,QR1110,Qatar Airways,12A,On Time,16:20,2025-02-26,arrivals
+Manila,GF155,Gulf Air,21A-B,On Time,16:35,2025-02-26,arrivals
+Riyadh,SV520,Saudi Arabian Airlines,17A,On Time,16:35,2025-02-26,arrivals
+Riyadh,GF190,Gulf Air,17B,On Time,16:55,2025-02-26,arrivals
+Sharjah,G9103,Air Arabia,11A,On Time,17:10,2025-02-26,arrivals
+Dubai,FZ027,FlyDubai,13A,On Time,17:30,2025-02-26,arrivals
+Jeddah,GF184,Gulf Air,20B,On Time,18:15,2025-02-26,arrivals
+Abu Dhabi,3L017,Air Arabia Abu Dhabi,11A,On Time,18:20,2025-02-26,arrivals
+Frankfurt,GF016,Gulf Air,16A,On Time,19:00,2025-02-26,arrivals
+Riyadh,XY233,Flynas,13B,On Time,19:00,2025-02-26,arrivals
+Doha,GF527,Gulf Air,12B,On Time,19:05,2025-02-26,arrivals
+London,GF002,Gulf Air,22A-B,Early,18:45                                                        19:10,2025-02-26,arrivals
+Lahore,GF767,Gulf Air,15B,On Time,19:10,2025-02-26,arrivals
+Riyadh,GF168,Gulf Air,13A,On Time,19:15,2025-02-26,arrivals
+Munich,GF086,Gulf Air,21A,On Time,19:20,2025-02-26,arrivals
+Paris,GF018,Gulf Air,16B,On Time,19:25,2025-02-26,arrivals
+Dubai,GF509,Gulf Air,A4,On Time,19:30,2025-02-26,arrivals
+Dammam,GF110,Gulf Air,17B,On Time,19:30,2025-02-26,arrivals
+Abu Dhabi,GF545,Gulf Air,17A,On Time,19:35,2025-02-26,arrivals
+Sharjah,G9105,Air Arabia,11A,On Time,19:40,2025-02-26,arrivals
+Delhi,IX145,Air India Express,12A,Delayed,20:17                                                        19:50,2025-02-26,arrivals
+Alqassim,GF186,Gulf Air,18B,On Time,19:50,2025-02-26,arrivals
+Rome,GF026,Gulf Air,15A,On Time,20:00,2025-02-26,arrivals
+Manchester,GF004,Gulf Air,19A-B,On Time,20:00,2025-02-26,arrivals
+Kuwait,GF216,Gulf Air,20A,On Time,20:00,2025-02-26,arrivals
+Cairo,GF070,Gulf Air,A4,On Time,20:15,2025-02-26,arrivals
+Dubai,FZ025,FlyDubai,11B,On Time,20:20,2025-02-26,arrivals
+Amman,GF963,Gulf Air,A3,On Time,20:20,2025-02-26,arrivals
+Istanbul,GF044,Gulf Air,13B,On Time,20:20,2025-02-26,arrivals
+Doha,QR1108,Qatar Airways,12B,On Time,20:50,2025-02-26,arrivals
+Shanghai,GF125,Gulf Air,21A-B,Early,20:45                                                        20:55,2025-02-26,arrivals
+Doha,GF529,Gulf Air,11A,On Time,21:05,2025-02-26,arrivals
+Abu Dhabi,EY645,Al Etihad,14B,On Time,21:35,2025-02-26,arrivals
+Dubai,GF511,Gulf Air,17A,On Time,21:45,2025-02-26,arrivals
+Male,GF145,Gulf Air,15A,On Time,22:10,2025-02-26,arrivals
+Mumbai,6E1201,IndiGo Airlines,13B,On Time,22:45,2025-02-26,arrivals
+Bangkok,GF153,Gulf Air,18A-B,On Time,22:55,2025-02-26,arrivals
+Dammam,GF112,Gulf Air,17B,On Time,23:10,2025-02-26,arrivals
+Mumbai,GF065,Gulf Air,20B,On Time,23:15,2025-02-26,arrivals
+Doha,GF531,Gulf Air,12A,On Time,23:25,2025-02-26,arrivals
+Riyadh,GF170,Gulf Air,20A,On Time,23:35,2025-02-26,arrivals
+Abu Dhabi,GF547,Gulf Air,12B,On Time,23:45,2025-02-26,arrivals
+Calicut,IX473,Air India Express,16A,Delayed,23:49                                                        23:45,2025-02-26,arrivals
+Jeddah,GF174,Gulf Air,14A,On Time,23:50,2025-02-26,arrivals
+Delhi,GF135,Gulf Air,13A,On Time,23:55,2025-02-26,arrivals
+Kuwait,GF220,Gulf Air,19B,On Time,23:55,2025-02-26,arrivals
+Singapore,GF166,Gulf Air,22A-B,On Time,23:55,2025-02-26,arrivals
+Dubai,GF513,Gulf Air,14B,On Time,23:59,2025-02-26,arrivals
+London,BA125,British Airways,11A-B,On Time,00:05,2025-02-27,arrivals
+Trivandrum,GF063,Gulf Air,19A,On Time,00:10,2025-02-27,arrivals
+Muscat,GF567,Gulf Air,18A,On Time,00:29,2025-02-27,arrivals
+Bangalore,GF281,Gulf Air,13B,On Time,00:30,2025-02-27,arrivals
+Goa,GF287,Gulf Air,18B,On Time,00:40,2025-02-27,arrivals
+Dubai,FZ029,FlyDubai,15A,On Time,00:40,2025-02-27,arrivals
+Istanbul,TK778,Turkish Airlines,16A,On Time,01:05,2025-02-27,arrivals
+,U55361,,A1,On Time,02:05,2025-02-27,arrivals
+Dubai,EK835,Emirates,15A-B,On Time,02:25,2025-02-27,arrivals
+Abu Dhabi,EY647,Al Etihad,17A,On Time,02:30,2025-02-27,arrivals
+Sabiha Gokcen,VF125,AJet,18A,On Time,02:55,2025-02-27,arrivals
+Doha,QR1116,Qatar Airways,16A,On Time,03:05,2025-02-27,arrivals
+Sharjah,G9107,Air Arabia,16B,On Time,04:10,2025-02-27,arrivals
+London,GF006,Gulf Air,22A-B,On Time,07:20,2025-02-27,arrivals
+Kochi,GF271,Gulf Air,18B,On Time,07:30,2025-02-27,arrivals
+Bangalore,GF283,Gulf Air,13B,On Time,07:35,2025-02-27,arrivals
+Dubai,FZ023,FlyDubai,12A,On Time,07:40,2025-02-27,arrivals
+Dammam,GF102,Gulf Air,17B,On Time,07:55,2025-02-27,arrivals
+Delhi,GF131,Gulf Air,18A,On Time,08:00,2025-02-27,arrivals
+Jeddah,GF182,Gulf Air,16A,On Time,08:05,2025-02-27,arrivals
+Dubai,GF501,Gulf Air,13A,On Time,08:05,2025-02-27,arrivals
+Muscat,GF561,Gulf Air,17A,On Time,08:05,2025-02-27,arrivals
+Cairo,GF080,Gulf Air,20B,On Time,08:05,2025-02-27,arrivals
+Mumbai,GF057,Gulf Air,20A,On Time,08:10,2025-02-27,arrivals
+Riyadh,GF162,Gulf Air,16B,On Time,08:15,2025-02-27,arrivals
+Kuwait,GF212,Gulf Air,19B,On Time,08:15,2025-02-27,arrivals
+Chennai,GF069,Gulf Air,21B,On Time,08:20,2025-02-27,arrivals
+Sharjah,G9101,Air Arabia,12B,On Time,08:25,2025-02-27,arrivals
+Riyadh,XY237,Flynas,11A,On Time,08:30,2025-02-27,arrivals
+Dubai,EK837,Emirates,15A-B,On Time,08:40,2025-02-27,arrivals
+Abu Dhabi,3L015,Air Arabia Abu Dhabi,12A,On Time,09:25,2025-02-27,arrivals
+Doha,QR1102,Qatar Airways,18A,On Time,09:40,2025-02-27,arrivals
+Istanbul,GF046,Gulf Air,19A,On Time,10:15,2025-02-27,arrivals
+Najaf,IA681,Iraqi Airways,15B,On Time,10:30,2025-02-27,arrivals
+Baku,J2505,Azerbaijan Airlines,15A,On Time,10:50,2025-02-27,arrivals
+Kochi,IX471,Air India Express,16B,On Time,11:05,2025-02-27,arrivals
+Jeddah,SV528,Saudi Arabian Airlines,16A,On Time,11:15,2025-02-27,arrivals
+Athens,GF048,Gulf Air,19B,On Time,11:25,2025-02-27,arrivals
+Doha,GF525,Gulf Air,15B,On Time,12:15,2025-02-27,arrivals
+Dammam,GF104,Gulf Air,21A,On Time,12:25,2025-02-27,arrivals
+Kuwait,GF214,Gulf Air,16B,On Time,12:45,2025-02-27,arrivals
+Dhaka,GF251,Gulf Air,18B,On Time,13:05,2025-02-27,arrivals
+Riyadh,GF164,Gulf Air,21B,On Time,13:20,2025-02-27,arrivals
+Najaf,GF204,Gulf Air,19A,On Time,13:20,2025-02-27,arrivals
+Dubai,GF505,Gulf Air,19B,On Time,13:20,2025-02-27,arrivals
+Najaf,IA685,Iraqi Airways,15A,On Time,14:30,2025-02-27,arrivals
+Dubai,FZ021,FlyDubai,16A,On Time,14:30,2025-02-27,arrivals
+Baghdad,GF200,Gulf Air,15B,On Time,14:45,2025-02-27,arrivals
+Jeddah,GF172,Gulf Air,18B,On Time,15:45,2025-02-27,arrivals
+Almadina,XY809,Flynas,16B,On Time,15:50,2025-02-27,arrivals
+Warsaw,U55362,,A2,On Time,16:00,2025-02-27,arrivals
+Doha,GF533,Gulf Air,21B,On Time,16:10,2025-02-27,arrivals
+Kuwait,KU615,Kuwait Airways,14B,On Time,16:15,2025-02-27,arrivals
+Doha,QR1110,Qatar Airways,18A,On Time,16:20,2025-02-27,arrivals
+Dubai,EK839,Emirates,15A-B,On Time,16:20,2025-02-27,arrivals
+Riyadh,SV520,Saudi Arabian Airlines,13B,On Time,16:35,2025-02-27,arrivals
+Manila,GF155,Gulf Air,22A-B,On Time,16:35,2025-02-27,arrivals
+Riyadh,GF190,Gulf Air,13A,On Time,16:55,2025-02-27,arrivals
+Sharjah,G9103,Air Arabia,16A,On Time,17:10,2025-02-27,arrivals
+Islamabad,GF771,Gulf Air,19B,On Time,17:15,2025-02-27,arrivals
+Dubai,FZ027,FlyDubai,14A,On Time,17:30,2025-02-27,arrivals
+Jeddah,XY527,Flynas,16B,On Time,17:55,2025-02-27,arrivals
+Jeddah,GF184,Gulf Air,22B,On Time,18:15,2025-02-27,arrivals
+Abu Dhabi,3L017,Air Arabia Abu Dhabi,16A,On Time,18:20,2025-02-27,arrivals
+Kuwait,J9101,Jazeera Airways,15A,On Time,18:25,2025-02-27,arrivals
+Casablanca,GF142,Gulf Air,12A-B,On Time,19:00,2025-02-27,arrivals
+Frankfurt,GF016,Gulf Air,20B,On Time,19:00,2025-02-27,arrivals
+Riyadh,XY233,Flynas,16B,On Time,19:00,2025-02-27,arrivals
+Doha,GF527,Gulf Air,A4,On Time,19:05,2025-02-27,arrivals
+London,GF002,Gulf Air,21A-B,On Time,19:10,2025-02-27,arrivals
+Riyadh,GF168,Gulf Air,19B,On Time,19:15,2025-02-27,arrivals
+Paris,GF018,Gulf Air,17B,On Time,19:25,2025-02-27,arrivals
+Dubai,GF509,Gulf Air,18A,On Time,19:30,2025-02-27,arrivals
+Dammam,GF110,Gulf Air,22A,On Time,19:30,2025-02-27,arrivals
+Abu Dhabi,GF545,Gulf Air,13A,On Time,19:35,2025-02-27,arrivals
+Sharjah,G9105,Air Arabia,16A,On Time,19:40,2025-02-27,arrivals
+Tbilisi,GF082,Gulf Air,15B,On Time,19:40,2025-02-27,arrivals
+Muscat,GF565,Gulf Air,17A,On Time,19:45,2025-02-27,arrivals
+Muscat,WY653,Oman Air,15A,On Time,19:50,2025-02-27,arrivals
+Delhi,IX145,Air India Express,14A,On Time,19:50,2025-02-27,arrivals
+Manchester,GF004,Gulf Air,11A-B,On Time,20:00,2025-02-27,arrivals
+Milan-Malpensa,GF022,Gulf Air,19A,On Time,20:00,2025-02-27,arrivals
+Kuwait,GF216,Gulf Air,18B,On Time,20:00,2025-02-27,arrivals
+Cairo,GF070,Gulf Air,22B,On Time,20:15,2025-02-27,arrivals
+Istanbul,GF044,Gulf Air,16B,On Time,20:20,2025-02-27,arrivals
+Amman,GF963,Gulf Air,A4,On Time,20:20,2025-02-27,arrivals
+Dubai,FZ025,FlyDubai,14B,On Time,20:20,2025-02-27,arrivals
+Doha,QR1108,Qatar Airways,13B,On Time,20:50,2025-02-27,arrivals
+Islamabad,9P764,Petra Airlines,16A,On Time,20:55,2025-02-27,arrivals
+Almadina,GF178,Gulf Air,A4,On Time,21:30,2025-02-27,arrivals
+Dubai,EK833,Emirates,15A-B,On Time,21:30,2025-02-27,arrivals
+Abu Dhabi,EY645,Al Etihad,17A,On Time,21:35,2025-02-27,arrivals
+Dubai,GF511,Gulf Air,14B,On Time,21:45,2025-02-27,arrivals
+Karachi,GF753,Gulf Air,14A,On Time,21:55,2025-02-27,arrivals
+Male,GF145,Gulf Air,20B,On Time,22:10,2025-02-27,arrivals
+Moscow,GF015,Gulf Air,13A,On Time,22:35,2025-02-27,arrivals
+Mumbai,6E1201,IndiGo Airlines,13B,On Time,22:45,2025-02-27,arrivals
+Bangkok,GF153,Gulf Air,21A-B,On Time,22:55,2025-02-27,arrivals
+Mumbai,GF065,Gulf Air,19A,On Time,23:15,2025-02-27,arrivals
+Dammam,GF103,Gulf Air,17B,Departed,12:43                                                        10:25,2025-02-26,departures
+Abu Dhabi,EY642,Al Etihad,12A,Departed,10:31                                                        10:45,2025-02-26,departures
+Lahore,GF766,Gulf Air,14A,Departed,10:53                                                        10:50,2025-02-26,departures
+Doha,QR1103,Qatar Airways,14B,Departed,10:46                                                        11:00,2025-02-26,departures
+Istanbul,GF043,Gulf Air,17A,Departed,11:02                                                        11:00,2025-02-26,departures
+Trivandrum,IX574,Air India Express,13A,Departed,11:54                                                        12:00,2025-02-26,departures
+Cairo,GF071,Gulf Air,18B,Departed,12:14                                                        12:15,2025-02-26,departures
+Jeddah,GF183,Gulf Air,19B,Departed,12:31                                                        12:30,2025-02-26,departures
+Riyadh,GF189,Gulf Air,15A,Departed,13:23                                                        13:20,2025-02-26,departures
+Trivandrum,GF062,Gulf Air,19B,Departed,14:09                                                        14:00,2025-02-26,departures
+Bangalore,GF280,Gulf Air,19A,Delayed,14:20                                                        14:10,2025-02-26,departures
+Amman,GF962,Gulf Air,11A,Departed,14:11                                                        14:10,2025-02-26,departures
+Delhi,GF134,Gulf Air,18B,Departed,14:20,2025-02-26,departures
+Mumbai,GF064,Gulf Air,13B,Departed,14:08                                                        14:20,2025-02-26,departures
+Dubai,FZ022,FlyDubai,15A,On Time,15:30,2025-02-26,departures
+Riyadh,GF167,Gulf Air,15B,On Time,15:40,2025-02-26,departures
+Dubai,GF508,Gulf Air,19B,On Time,15:50,2025-02-26,departures
+Muscat,WY656,Oman Air,12A,On Time,15:50,2025-02-26,departures
+Goa,GF286,Gulf Air,17B,On Time,15:50,2025-02-26,departures
+Alqassim,GF185,Gulf Air,17A,On Time,16:00,2025-02-26,departures
+Kuwait,J9102,Jazeera Airways,11A,On Time,16:15,2025-02-26,departures
+Abu Dhabi,GF544,Gulf Air,13A,On Time,16:20,2025-02-26,departures
+Doha,GF526,Gulf Air,12B,On Time,16:20,2025-02-26,departures
+Prague,QS4125,Travel Service Airlines,13B,On Time,16:55,2025-02-26,departures
+Kuwait,KU616,Kuwait Airways,19A,On Time,17:05,2025-02-26,departures
+Kuwait,GF215,Gulf Air,20A,On Time,17:05,2025-02-26,departures
+Riyadh,SV521,Saudi Arabian Airlines,17A,On Time,17:30,2025-02-26,departures
+Dammam,GF109,Gulf Air,20B,On Time,17:35,2025-02-26,departures
+Dubai,EK840,Emirates,15A-B,On Time,17:45,2025-02-26,departures
+Abu Dhabi,EY644,Al Etihad,11B,On Time,17:50,2025-02-26,departures
+Doha,QR1111,Qatar Airways,12A,On Time,17:50,2025-02-26,departures
+Sharjah,G9104,Air Arabia,11A,On Time,17:50,2025-02-26,departures
+Jeddah,GF173,Gulf Air,19B,On Time,18:00,2025-02-26,departures
+Dubai,GF510,Gulf Air,17B,On Time,18:10,2025-02-26,departures
+Doha,GF528,Gulf Air,18B,On Time,18:20,2025-02-26,departures
+Dubai,FZ028,FlyDubai,13A,On Time,18:30,2025-02-26,departures
+Abu Dhabi,3L018,Air Arabia Abu Dhabi,11A,On Time,19:00,2025-02-26,departures
+Riyadh,XY234,Flynas,13B,On Time,19:50,2025-02-26,departures
+Riyadh,GF169,Gulf Air,21A,On Time,20:05,2025-02-26,departures
+Sharjah,G9106,Air Arabia,11A,On Time,20:20,2025-02-26,departures
+Dubai,GF512,Gulf Air,12B,On Time,20:20,2025-02-26,departures
+Abu Dhabi,GF546,Gulf Air,18A,On Time,20:30,2025-02-26,departures
+Muscat,GF566,Gulf Air,17A,On Time,20:40,2025-02-26,departures
+Doha,GF530,Gulf Air,18B,On Time,20:40,2025-02-26,departures
+Delhi,IX146,Air India Express,12A,Delayed,21:20                                                        20:50,2025-02-26,departures
+Kuwait,GF219,Gulf Air,15A,On Time,21:00,2025-02-26,departures
+Manila,GF154,Gulf Air,14A-B,On Time,21:00,2025-02-26,departures
+Dammam,GF111,Gulf Air,13A,On Time,21:00,2025-02-26,departures
+Kochi,GF270,Gulf Air,20A,On Time,21:05,2025-02-26,departures
+Dubai,FZ026,FlyDubai,11B,Delayed,21:52                                                        21:20,2025-02-26,departures
+Bangalore,GF282,Gulf Air,17B,On Time,21:25,2025-02-26,departures
+Chennai,GF068,Gulf Air,20B,On Time,21:40,2025-02-26,departures
+Doha,QR1109,Qatar Airways,12B,On Time,22:20,2025-02-26,departures
+Delhi,GF130,Gulf Air,16A,On Time,22:30,2025-02-26,departures
+Guangzhou,GF122,Gulf Air,22A-B,On Time,22:40,2025-02-26,departures
+Abu Dhabi,EY646,Al Etihad,14B,On Time,22:50,2025-02-26,departures
+Mumbai,GF056,Gulf Air,11A,On Time,23:00,2025-02-26,departures
+Bangkok,GF152,Gulf Air,19A-B,On Time,23:05,2025-02-26,departures
+Mumbai,6E1202,IndiGo Airlines,13B,On Time,23:45,2025-02-26,departures
+Male,GF144,Gulf Air,15A,On Time,23:45,2025-02-26,departures
+Singapore,GF165,Gulf Air,18A-B,On Time,23:55,2025-02-26,departures
+Cairo,GF079,Gulf Air,15B,On Time,00:35,2025-02-27,departures
+Dhaka,GF250,Gulf Air,13A,On Time,00:40,2025-02-27,departures
+Calicut,IX474,Air India Express,16A,On Time,00:45,2025-02-27,departures
+Istanbul,GF045,Gulf Air,12B,On Time,00:50,2025-02-27,departures
+Frankfurt,GF017,Gulf Air,20A,On Time,01:20,2025-02-27,departures
+Paris,GF019,Gulf Air,20B,On Time,01:20,2025-02-27,departures
+Dubai,GF500,Gulf Air,17B,On Time,01:20,2025-02-27,departures
+Dammam,GF101,Gulf Air,18A,On Time,01:25,2025-02-27,departures
+Athens,GF047,Gulf Air,17A,On Time,01:30,2025-02-27,departures
+Kuwait,GF211,Gulf Air,12A,On Time,01:35,2025-02-27,departures
+Jeddah,GF181,Gulf Air,13B,On Time,01:35,2025-02-27,departures
+Dubai,FZ030,FlyDubai,15A,On Time,01:40,2025-02-27,departures
+Milan-Malpensa,GF023,Gulf Air,19B,On Time,01:40,2025-02-27,departures
+London,BA124,British Airways,11A-B,On Time,01:45,2025-02-27,departures
+Muscat,GF560,Gulf Air,18B,On Time,01:45,2025-02-27,departures
+Istanbul,TK779,Turkish Airlines,16A,On Time,02:05,2025-02-27,departures
+London,GF007,Gulf Air,22A-B,On Time,02:10,2025-02-27,departures
+Manchester,GF005,Gulf Air,21A-B,On Time,02:10,2025-02-27,departures
+Riyadh,GF161,Gulf Air,16B,On Time,02:25,2025-02-27,departures
+Warsaw,U55361,,-,On Time,03:05,2025-02-27,departures
+Dubai,EK836,Emirates,15A-B,On Time,03:50,2025-02-27,departures
+Abu Dhabi,EY648,Al Etihad,17A,On Time,04:25,2025-02-27,departures
+Sabiha Gokcen,VF126,AJet,18A,On Time,04:30,2025-02-27,departures
+Doha,QR1117,Qatar Airways,16A,On Time,04:35,2025-02-27,departures
+Sharjah,G9108,Air Arabia,16B,On Time,04:50,2025-02-27,departures
+Dubai,FZ024,FlyDubai,12A,On Time,08:40,2025-02-27,departures
+Najaf,GF205,Gulf Air,19A,On Time,09:00,2025-02-27,departures
+Moscow,GF014,Gulf Air,18A,On Time,09:00,2025-02-27,departures
+Islamabad,GF770,Gulf Air,17A,On Time,09:00,2025-02-27,departures
+Sharjah,G9102,Air Arabia,12B,On Time,09:05,2025-02-27,departures
+Riyadh,XY238,Flynas,11A,On Time,09:20,2025-02-27,departures
+Doha,GF524,Gulf Air,17B,On Time,09:30,2025-02-27,departures
+Riyadh,GF163,Gulf Air,16B,On Time,09:35,2025-02-27,departures
+Baku,GF081,Gulf Air,21A,On Time,09:40,2025-02-27,departures
+Kuwait,GF213,Gulf Air,16A,On Time,09:50,2025-02-27,departures
+Dubai,GF504,Gulf Air,13A,On Time,09:50,2025-02-27,departures
+Baghdad,GF201,Gulf Air,19B,On Time,09:55,2025-02-27,departures
+Dubai,EK838,Emirates,15A-B,On Time,10:00,2025-02-27,departures
+Jeddah,GF171,Gulf Air,21B,On Time,10:05,2025-02-27,departures
+Abu Dhabi,3L016,Air Arabia Abu Dhabi,12A,On Time,10:05,2025-02-27,departures
+London,GF003,Gulf Air,22A-B,On Time,10:25,2025-02-27,departures
+Dammam,GF103,Gulf Air,18B,On Time,10:25,2025-02-27,departures
+Doha,QR1103,Qatar Airways,18A,On Time,11:00,2025-02-27,departures
+Istanbul,GF043,Gulf Air,19A,On Time,11:00,2025-02-27,departures
+Najaf,IA682,Iraqi Airways,15B,On Time,11:30,2025-02-27,departures
+Baku,J2506,Azerbaijan Airlines,15A,On Time,11:50,2025-02-27,departures
+Kochi,IX472,Air India Express,16B,On Time,12:05,2025-02-27,departures
+Jeddah,SV529,Saudi Arabian Airlines,16A,On Time,12:10,2025-02-27,departures
+Cairo,GF071,Gulf Air,19B,On Time,12:15,2025-02-27,departures
+Jeddah,GF183,Gulf Air,13B,On Time,12:30,2025-02-27,departures
+Riyadh,GF189,Gulf Air,15B,On Time,13:20,2025-02-27,departures
+Doha,GF532,Gulf Air,21A,On Time,13:25,2025-02-27,departures
+Amman,GF962,Gulf Air,14B,On Time,14:10,2025-02-27,departures
+Delhi,GF134,Gulf Air,21B,On Time,14:20,2025-02-27,departures
+Mumbai,GF064,Gulf Air,18B,On Time,14:20,2025-02-27,departures
+Hyderabad,GF276,Gulf Air,20A,On Time,14:30,2025-02-27,departures
+Karachi,GF754,Gulf Air,16B,On Time,14:30,2025-02-27,departures
+Najaf,IA686,Iraqi Airways,15A,On Time,15:30,2025-02-27,departures
+Dubai,FZ022,FlyDubai,16A,On Time,15:30,2025-02-27,departures
+Muscat,GF564,Gulf Air,19A,On Time,15:40,2025-02-27,departures
+Riyadh,GF167,Gulf Air,15B,On Time,15:40,2025-02-27,departures
+Dubai,GF508,Gulf Air,18A,On Time,15:50,2025-02-27,departures
+Almadina,GF177,Gulf Air,14A,On Time,16:15,2025-02-27,departures
+Abu Dhabi,GF544,Gulf Air,21A,On Time,16:20,2025-02-27,departures
+Doha,GF526,Gulf Air,19B,On Time,16:20,2025-02-27,departures
+Almadina,XY810,Flynas,16B,On Time,16:40,2025-02-27,departures
+,U55362,,-,On Time,17:00,2025-02-27,departures
+Kuwait,GF215,Gulf Air,21B,On Time,17:05,2025-02-27,departures
+Kuwait,KU616,Kuwait Airways,14B,On Time,17:05,2025-02-27,departures
+Riyadh,SV521,Saudi Arabian Airlines,13B,On Time,17:30,2025-02-27,departures
+Casablanca,GF143,Gulf Air,22A-B,On Time,17:35,2025-02-27,departures
+Dammam,GF109,Gulf Air,18B,On Time,17:35,2025-02-27,departures
+Dubai,EK840,Emirates,15A-B,On Time,17:45,2025-02-27,departures
+Sharjah,G9104,Air Arabia,16A,On Time,17:50,2025-02-27,departures
+Doha,QR1111,Qatar Airways,18A,On Time,17:50,2025-02-27,departures
+Jeddah,GF173,Gulf Air,20B,On Time,18:00,2025-02-27,departures
+Dubai,GF510,Gulf Air,19B,On Time,18:10,2025-02-27,departures
+Dubai,FZ028,FlyDubai,14A,On Time,18:30,2025-02-27,departures
+Jeddah,XY528,Flynas,16B,On Time,18:45,2025-02-27,departures
+Kuwait,J9102,Jazeera Airways,15A,On Time,19:00,2025-02-27,departures
+Abu Dhabi,3L018,Air Arabia Abu Dhabi,16A,On Time,19:00,2025-02-27,departures
+Riyadh,XY234,Flynas,16B,On Time,19:50,2025-02-27,departures
+Riyadh,GF169,Gulf Air,19B,On Time,20:05,2025-02-27,departures
+Dubai,GF512,Gulf Air,19A,On Time,20:20,2025-02-27,departures
+Sharjah,G9106,Air Arabia,16A,On Time,20:20,2025-02-27,departures
+Abu Dhabi,GF546,Gulf Air,15B,On Time,20:30,2025-02-27,departures
+Muscat,GF566,Gulf Air,17A,On Time,20:40,2025-02-27,departures
+Muscat,WY654,Oman Air,15A,On Time,20:50,2025-02-27,departures
+Delhi,IX146,Air India Express,14A,On Time,20:50,2025-02-27,departures
+Kuwait,GF219,Gulf Air,20A,On Time,21:00,2025-02-27,departures
+Manila,GF154,Gulf Air,21A-B,On Time,21:00,2025-02-27,departures
+Dammam,GF111,Gulf Air,18B,On Time,21:00,2025-02-27,departures
+Calicut,GF260,Gulf Air,22B,On Time,21:05,2025-02-27,departures
+Dubai,FZ026,FlyDubai,14B,On Time,21:20,2025-02-27,departures
+Islamabad,9P765,Petra Airlines,16A,On Time,21:45,2025-02-27,departures
+Trivandrum,GF060,Gulf Air,18A,On Time,21:50,2025-02-27,departures
+Doha,QR1109,Qatar Airways,13B,On Time,22:20,2025-02-27,departures
+Delhi,GF130,Gulf Air,22A,On Time,22:30,2025-02-27,departures
+Bangkok,GF152,Gulf Air,11A-B,On Time,22:45,2025-02-27,departures
+Abu Dhabi,EY646,Al Etihad,17A,On Time,22:50,2025-02-27,departures
+Dubai,EK834,Emirates,15A-B,On Time,23:00,2025-02-27,departures
+Mumbai,GF056,Gulf Air,17B,On Time,23:00,2025-02-27,departures
